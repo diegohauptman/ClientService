@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+
+#tituloExample{
+	cursor: pointer;
+}
+
+#parrafoExample{
+	font-size: 5rem;
+}
